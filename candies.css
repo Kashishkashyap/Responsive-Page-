@@ -1,0 +1,43 @@
+body{ 
+font-family:nunito;
+background:#f5d9d5;
+}
+#yo{
+	font-size:1.5rem;
+	font-weight:100;
+}
+#yo  .nav-link{
+	
+	color:white;
+}
+#yo  .nav-link:hover{
+	
+	color:#ea1c2c;
+}
+#yo .navbar-brand{
+	color:#ea1c2c;
+	font-size:1.5rem;
+	font-weight:100;
+}
+#kk span{
+	color:#ea1c2c;
+}
+
+.ct{
+margin-bottom: 20px;
+
+}
+.ct1{
+margin-top: 40px;
+font-size:1.5rem;
+color: blue;
+	
+}
+.ct2{
+margin-top: 40px;
+font-size:1.5rem;
+color: blue;
+	
+}
+
+	
